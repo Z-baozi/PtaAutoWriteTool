@@ -78,6 +78,15 @@
   - 在登录态可用时，会优先复用现有状态并继续执行写入流程。
 
 ---
+第一步：先登录自己的账号
+<img width="1571" height="928" alt="image" src="https://github.com/user-attachments/assets/960c9b3b-ee32-4dc3-b66d-1b63c37466b8" />
+第二步：复制题目 去自己熟悉的工具 生成答案 /自己写好的答案 粘贴到左侧区域
+<img width="1557" height="870" alt="image" src="https://github.com/user-attachments/assets/302969fa-4196-4109-8efd-9de2e5bac5fd" />
+第三步：点击写入，最好是把输入法调整为英文 鼠标点击需要粘贴的输入框（可选可不选）
+<img width="1588" height="955" alt="image" src="https://github.com/user-attachments/assets/f8a924af-0b24-4516-9075-b3b0c69e0c3d" />
+  然后依次类推 完成题目 主要是解决 禁止粘贴浪费时间的问题 并不会提供答案 
+
+
 
 ## 3. 方式二：通过源代码使用
 
